@@ -160,7 +160,7 @@
   }
 </script>
 
-<style scoped lang="stylus" rel="stylesheet/stylus">
+<style scoped lang="stylus" rel="stylesheet/stylus" type="text/stylus">
   @import "~common/stylus/variable"
 
   .listview
