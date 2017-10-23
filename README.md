@@ -1,19 +1,7 @@
 # vue-music
 
-> 基于vue全家桶开发音乐webapp
+> 基于vue全家桶开发音乐webapp    
 
-# 在线演示地址：
-  https://tanrenjie.github.io/vue-music-webapp
-  
-  
-  PC端建议使用chrome手机调试工具查看，移动端推荐使用最新版谷歌浏览器或微信自带浏览器
-  
-  
-  API失效/BUG 请发邮件联系。
-  
-  **PS： 因Gitpage只能上传静态网站，因此没有歌词（项目中用的nodejs+Axios获取歌词数据）**
-    
-    
 ### 技术栈
 - Vue2.3：采用最新Vue2.3的语法
 - Vuex：管理组件之间状态
